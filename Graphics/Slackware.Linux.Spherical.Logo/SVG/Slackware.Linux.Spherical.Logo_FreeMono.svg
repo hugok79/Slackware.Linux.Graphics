@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!-- 
+ 
+ SLACKWARE LINUX GRAPHICS PROJECT: 
+
+ Slackware Linux Graphics Project aims to provide a set of visual components related to GNU/Linux Slackware in both vector and 
+ raster graphics formats for its users. 
+ 
+ LEGAL DISCLAIMER: 
+
+ Graphics in this project are all free artwork; you can use them, redistribute them and/or modify them under the *related* terms 
+ explained in Slackware Linux Propaganda Graphics FAQ section on Slackware Linux home page. 
+
+ You should have received a copy of the Slackware Linux Propaganda Graphics FAQ text 
+ along with this artwork package. If not, see "http://www.slackware.com/". 
+
+ This artwork package is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. 
+
+ Slackware Linux Graphics Project does not officially represent neither Linux nor Slackware Linux in any way. 
+ Linux is a registered trademark of Linus Torvalds. Slackware Linux is a registered trademark of Slackware Linux, Inc. 
+ and Patrick Volkerding. 
+ 
+ DOWNLOAD INFORMATION: 
+
+ You can download more recent versions of the Slackware Linux Graphics from the project's blog 
+ at "http://www.slackware-linux-graphics.blogspot.com/". 
+
+ OPINIONS AND SUGGESTIONS: 
+ 
+ Please contact with the project for your opinions and suggestions related to Slackware Linux Graphics. 
+ 
+ CONTACT INFORMATION: 
+ 
+ Maintainer: Ismail Demiral 
+ E-Mail: slackware.linux.graphics@gmail.com 
+ Blog: http://www.slackware-linux-graphics.blogspot.com/ 
+ 
+ -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg6111"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Slackware.Linux.Spherical.Logo_FreeMono.svg">
+  <defs
+     id="defs6113">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3946-3"
+       id="linearGradient6015"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9700353,0,0,1.9700353,1312.1852,2893.8103)"
+       x1="365.77502"
+       y1="-618.8158"
+       x2="290.67526"
+       y2="-535.4129" />
+    <linearGradient
+       id="linearGradient3946-3">
+      <stop
+         id="stop3948-7"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.60784316;" />
+      <stop
+         id="stop3950-8"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       y2="-535.4129"
+       x2="290.67526"
+       y1="-618.8158"
+       x1="365.77502"
+       gradientTransform="matrix(1.9700353,0,0,1.9700353,1312.1852,2893.8103)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6109"
+       xlink:href="#linearGradient3946-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3946-3-3"
+       id="linearGradient6536"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0173161,0,0,2.0173161,-15676.339,-6109.0302)"
+       x1="365.77502"
+       y1="-618.8158"
+       x2="290.67526"
+       y2="-535.4129" />
+    <linearGradient
+       id="linearGradient3946-3-3">
+      <stop
+         id="stop3948-7-6"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.60784316;" />
+      <stop
+         id="stop3950-8-7"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       y2="-535.4129"
+       x2="290.67526"
+       y1="-618.8158"
+       x1="365.77502"
+       gradientTransform="matrix(2.0173161,0,0,2.0173161,-15676.339,-6109.0302)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6556"
+       xlink:href="#linearGradient3946-3-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3946-3-3"
+       id="linearGradient3019"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0173161,0,0,2.0173161,-15676.339,-6109.0302)"
+       x1="365.77502"
+       y1="-618.8158"
+       x2="290.67526"
+       y2="-535.4129" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="598.98836"
+     inkscape:cy="331.55884"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6116">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-89.000159,-270.64794)">
+    <g
+       id="g6531"
+       transform="translate(15434.84,7685.1252)"
+       inkscape:export-filename="Slackware.Linux.Spherical.Logo_FreeMono_512x512.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(-0.07679335,-8.6642889,8.7996467,-0.07561212,-15372.178,-6879.5606)"
+         style="fill:#3264c8;fill-opacity:1;stroke:none"
+         d="m 61.454544,32.363636 c 0,16.066466 -13.22795,29.09091 -29.545454,29.09091 -16.317504,0 -29.545454,-13.024444 -29.545454,-29.09091 0,-16.066466 13.22795,-29.0909099 29.545454,-29.0909099 16.317504,0 29.545454,13.0244439 29.545454,29.0909099 z"
+         id="path5688" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:5.11999989;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -15085.392,-7312.0772 c -53.662,0 -93.92,32.8996 -93.92,76.608 0,24.6671 13.418,47.578 35.488,60.1281 42.41,23.8016 116.864,13.4373 116.864,51.5199 0,18.6086 -25.097,32.896 -57.12,32.896 -28.563,0 -55.832,-12.5488 -60.16,-28.128 -1.297,-4.3276 -3.039,-20.8 -22.08,-20.8 -17.31,0 -21.632,11.2659 -21.632,28.576 l 0,28.576 c 0,19.474 6.933,28.544 22.079,28.544 6.926,0 9.957,-1.7128 17.313,-10.368 21.205,11.2517 44.119,16.8641 67.488,16.864 59.287,0 99.104,-30.2892 99.104,-75.296 0,-22.5033 -8.225,-40.2637 -25.536,-54.112 -41.111,-32.8894 -126.784,-16.0051 -126.784,-58.848 0,-18.6085 21.632,-32.896 48.896,-32.896 26.83,0 47.593,11.6817 51.488,28.992 1.731,8.2223 2.623,23.3921 21.664,23.3921 17.743,0 21.184,-13.4129 21.184,-28.9921 l 0,-38.0799 c 0,-15.1465 -2.143,-28.5761 -21.184,-28.5761 -8.656,0 -12.569,3.453 -16.896,14.272 -15.147,-9.5206 -34.186,-14.272 -56.256,-14.272 z m -145.216,213.888 0,82.656 0,10.656 10.656,0 270.881,0 0,-10.656 -270.881,0 0,-82.656 -10.656,0 z"
+         id="path5690"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5692"
+         d="m -15089.844,-7414.4772 c -93.987,0 -174.818,56.3338 -210.494,137.1145 9.282,3.8328 18.827,7.2093 28.622,10.2128 123.186,37.7775 251.597,-1.4849 333.488,-90.275 -40.489,-35.5187 -93.52,-57.0523 -151.615,-57.0523 z m 176.516,82.4578 c -95.446,85.0083 -231.687,119.5772 -362.802,79.3688 -10.19,-3.1249 -20.151,-6.7046 -29.882,-10.5908 -0.02,0.044 -0.05,0.082 -0.06,0.126 59.743,46.3588 134.759,73.9473 216.232,73.9473 81.473,0 156.489,-27.5885 216.232,-73.9473 -9.212,-25.3388 -22.742,-48.6184 -39.716,-68.9041 z"
+         style="fill:url(#linearGradient3019);fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!-- 
+ 
+ SLACKWARE LINUX GRAPHICS PROJECT: 
+
+ Slackware Linux Graphics Project aims to provide a set of visual components related to GNU/Linux Slackware in both vector and 
+ raster graphics formats for its users. 
+ 
+ LEGAL DISCLAIMER: 
+
+ Graphics in this project are all free artwork; you can use them, redistribute them and/or modify them under the *related* terms 
+ explained in Slackware Linux Propaganda Graphics FAQ section on Slackware Linux home page. 
+
+ You should have received a copy of the Slackware Linux Propaganda Graphics FAQ text 
+ along with this artwork package. If not, see "http://www.slackware.com/". 
+
+ This artwork package is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. 
+
+ Slackware Linux Graphics Project does not officially represent neither Linux nor Slackware Linux in any way. 
+ Linux is a registered trademark of Linus Torvalds. Slackware Linux is a registered trademark of Slackware Linux, Inc. 
+ and Patrick Volkerding. 
+ 
+ DOWNLOAD INFORMATION: 
+
+ You can download more recent versions of the Slackware Linux Graphics from the project's blog 
+ at "http://www.slackware-linux-graphics.blogspot.com/". 
+
+ OPINIONS AND SUGGESTIONS: 
+ 
+ Please contact with the project for your opinions and suggestions related to Slackware Linux Graphics. 
+ 
+ CONTACT INFORMATION: 
+ 
+ Maintainer: Ismail Demiral 
+ E-Mail: slackware.linux.graphics@gmail.com 
+ Blog: http://www.slackware-linux-graphics.blogspot.com/ 
+ 
+ -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="462.43002"
+   id="svg28476"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Slackware.Linux.Download.Logo_FreeSans.svg">
+  <defs
+     id="defs28478">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17045"
+       id="linearGradient17311"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.0694822,7.5305229)"
+       x1="-14665.049"
+       y1="-11278.094"
+       x2="-14538.079"
+       y2="-11278.094" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient17045">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop17047" />
+      <stop
+         style="stop-color:#008000;stop-opacity:0;"
+         offset="1"
+         id="stop17049" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="232.55346"
+     inkscape:cy="235.84961"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata28481">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-142.44654,-77.210336)">
+    <g
+       id="g17291"
+       transform="matrix(0.90373632,0,0,0.90373632,14440.793,10300.33)"
+       inkscape:export-filename="Slackware.Linux.Download.Logo_FreeSans_512x462.png"
+       inkscape:export-xdpi="89.999954"
+       inkscape:export-ydpi="89.999954">
+      <g
+         id="text17223"
+         style="font-size:98.1675415px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         transform="translate(-289.57073,-244.40832)">
+        <path
+           id="path17271"
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1"
+           d="m -15531.799,-10772.5 10.131,26.079 c 3.946,10.157 8.813,15.638 15.954,18.024 8.284,2.89 18.445,2.208 28.785,-1.809 10.249,-3.982 18.206,-10.338 22.458,-18.098 3.657,-6.581 3.492,-13.784 -0.49,-24.032 l -10.131,-26.079 -66.707,25.915 m 16.77,9.282 43.831,-17.028 4.799,12.354 c 4.017,10.34 -1.221,18.272 -15.953,23.996 -14.641,5.687 -23.861,3.371 -27.878,-6.969 l -4.799,-12.353"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path17273"
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1"
+           d="m -15465.673,-10709.498 c -16.505,14.231 -19.618,34.674 -5.899,50.584 14.039,16.282 34.991,15.326 50.529,1.928 17.249,-14.873 19.733,-35.292 6.207,-50.979 -13.59,-15.761 -34.332,-15.764 -50.837,-1.533 m 41.385,9.813 c 7.885,9.144 5.451,21.354 -6.296,31.483 -11.078,9.551 -23.779,10.004 -31.472,1.082 -7.757,-8.996 -5.376,-21.418 5.999,-31.226 11.375,-9.808 24.012,-10.335 31.769,-1.339"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path17275"
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1"
+           d="m -15359.727,-10579.166 50.673,-54.285 -13.84,-7.217 -34.317,42.665 14.558,-52.969 -12.882,-6.718 -34.619,42.396 14.947,-52.654 -13.839,-7.218 -15.16,72.805 11.751,6.128 36.186,-44.126 -15.209,55.065 11.751,6.128"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path17277"
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1"
+           d="m -15261.929,-10557.495 14.645,1.53 7.438,-71.177 -14.646,-1.53 -5.06,48.428 -23.157,-51.376 -15.036,-1.571 -7.437,71.176 14.645,1.53 5.142,-49.208 23.466,52.198"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path17279"
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1"
+           d="m -15204.86,-10632.37 -14.392,3.112 15.126,69.948 47.879,-10.354 -2.593,-11.994 -33.487,7.242 -12.533,-57.954"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path17281"
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1"
+           d="m -15140.84,-10611.755 c 11.168,18.714 30.766,25.31 48.806,14.545 18.461,-11.017 21.137,-31.819 10.623,-49.438 -11.67,-19.557 -31.354,-25.53 -49.141,-14.916 -17.871,10.665 -21.455,31.095 -10.288,49.809 m 16.812,-39.069 c 10.368,-6.187 21.974,-1.681 29.922,11.638 7.496,12.56 5.748,25.149 -4.367,31.186 -10.2,6.087 -22.025,1.597 -29.722,-11.301 -7.697,-12.897 -6.033,-25.436 4.167,-31.523"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path17283"
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1"
+           d="m -15020.075,-10683.087 14.085,5.661 9.713,-11.584 -70.733,-27.023 -10.47,12.487 38.504,65.463 9.65,-11.51 -7.968,-12.957 17.219,-20.537 m -11.989,-4.799 -11.984,14.292 -15.447,-25.122 27.431,10.83"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path17285"
+           style="font-weight:bold;text-align:center;text-anchor:middle;fill:#008000;fill-opacity:1"
+           d="m -14978.447,-10720.835 10.132,-26.079 c 3.945,-10.157 4.055,-17.487 0.398,-24.068 -4.161,-7.724 -12.118,-14.08 -22.458,-18.097 -10.248,-3.982 -20.409,-4.664 -28.785,-1.81 -7.141,2.386 -11.881,7.811 -15.863,18.06 l -10.131,26.079 66.707,25.915 m -6.106,-18.169 -43.831,-17.028 4.8,-12.353 c 4.017,-10.34 13.236,-12.656 27.968,-6.933 14.641,5.688 19.879,13.62 15.862,23.96 l -4.799,12.354"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g17231"
+         transform="matrix(1.2663197,0,0,1.2663197,2955.5016,3025.9277)">
+        <g
+           id="g17233">
+          <path
+             id="path17235"
+             d="m -14601.494,-11306.86 c -84.542,0 -152.938,68.39 -152.938,152.938 0,84.548 68.396,152.938 152.938,152.938 84.542,0 152.938,-68.39 152.938,-152.938 0,-84.548 -68.396,-152.938 -152.938,-152.938 z m 0,103.503 c 27.302,0 49.435,22.133 49.435,49.435 0,27.302 -22.133,49.434 -49.435,49.434 -27.302,0 -49.434,-22.132 -49.434,-49.434 0,-27.302 22.132,-49.435 49.434,-49.435 z"
+             style="color:#000000;fill:#ececec;stroke:#cccccc;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             inkscape:connector-curvature="0" />
+          <g
+             transform="matrix(0.48487617,0,0,0.48487617,-10822.65,-10696.084)"
+             id="g17237">
+            <path
+               id="rect17239"
+               d="m -867.63782,7920 87.48876,0 0,10 -87.48876,0 z"
+               style="fill:#000000;fill-opacity:1;stroke:none"
+               transform="matrix(0,1,-1,0,0,0)"
+               inkscape:connector-curvature="0" />
+            <g
+               id="text17241"
+               style="font-size:112.71884918px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans">
+              <path
+                 id="path17266"
+                 style="font-size:405.78790283px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+                 d="m -7725.2479,-1068.2046 c -8.1157,0 -11.7678,3.2463 -15.8257,13.391 -14.2026,-8.9273 -32.0573,-13.391 -52.7524,-13.391 -50.3177,0 -88.056,30.8399 -88.056,71.82446 0,23.12989 12.5794,44.63668 33.2746,56.40452 39.7672,22.31831 109.5627,12.57946 109.5627,48.28876 0,17.44886 -23.5357,30.83988 -53.564,30.83988 -26.782,0 -52.3466,-11.76786 -56.4045,-26.37621 -1.2174,-4.05788 -2.8405,-19.47782 -20.6952,-19.47782 -16.2315,0 -20.2894,10.5505 -20.2894,26.782 l 0,26.782 c 0,18.26044 6.4926,26.782 20.6952,26.782 6.4926,0 9.3331,-1.62316 16.2315,-9.73891 19.8836,10.55048 41.3904,15.82573 63.3029,15.82573 55.5929,0 92.9255,-28.40519 92.9255,-70.60709 0,-21.10095 -7.71,-37.73829 -23.9415,-50.72349 -38.5498,-30.83985 -118.8959,-15.01419 -118.8959,-55.18716 0,-17.44887 20.2894,-30.83987 45.8541,-30.83987 25.1588,0 44.6366,10.9563 48.2887,27.1878 1.6232,7.70995 2.4348,21.91253 20.2894,21.91253 16.6373,0 19.8836,-12.57944 19.8836,-27.18783 l 0,-35.7093 c 0,-14.2026 -2.0289,-26.782 -19.8836,-26.782"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <path
+               id="rect17245"
+               d="m -7930,-790.14905 263.9849,0 0,10 -263.9849,0 z"
+               style="fill:#000000;fill-opacity:1;stroke:none"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <path
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           id="path17247"
+           d="m -14634.845,-11320.076 0,35.655 -27.634,-0.158 61.144,63.526 60.826,-63.212 -27.633,-0.157 0,-35.654 z"
+           style="color:#000000;fill:url(#linearGradient17311);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </g>
+  </g>
+</svg>
