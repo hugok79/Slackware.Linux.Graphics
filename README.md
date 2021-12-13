@@ -1,1 +1,1 @@
-# slackware-graphics
+# Slackware.Linux.Graphics
