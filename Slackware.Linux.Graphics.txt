@@ -1,0 +1,184 @@
+SLACKWARE LINUX GRAPHICS PROJECT: 
+
+Slackware Linux Graphics Project aims to provide a set of visual components related to GNU/Linux Slackware in both vector and 
+raster graphics formats for its users. Source SVG graphics and exported PDF and PNG graphics in the project were all generated 
+by using Inkscape under the GNU/Linux Slackware. 
+
+VERSION: 
+
+1.3 
+
+DATE: 
+
+08/03/2013 
+
+DIRECTORY AND FILE TREE STRUCTURE: 
+
+Slackware.Linux.Graphics/ 
+------------------------------------------- 
+  Slackware.Linux.*/ 
+  ----------------------------------------- 
+    SVG/ 
+    --------------------------------------- 
+      Slackware.Linux.*.Free.*.svg 
+      ------------------------------------- 
+    PDF/ 
+    --------------------------------------- 
+      Slackware.Linux.*.Free.*.pdf 
+      ------------------------------------- 
+    PNG/ 
+    --------------------------------------- 
+      Slackware.Linux.*.Free.*.png 
+      ------------------------------------- 
+Fonts/ 
+------------------------------------------- 
+    Free.*.otf 
+    --------------------------------------- 
+    Read.Me.txt 
+    --------------------------------------- 
+References/ 
+------------------------------------------- 
+    *.* 
+    --------------------------------------- 
+Slackware.Linux.Graphics.png 
+------------------------------------------- 
+Slackware.Linux.Graphics.txt 
+------------------------------------------- 
+Slackware.Linux.Propaganda.Graphics.FAQ.txt 
+------------------------------------------- 
+
+FILE INDEX AND CHANGELOG: 
+
+Version 1.3 
+
+* Slackware.Linux.Graphics.Slackware.Linux.Domed.Tux.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Eggstone.Tux.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Power.Button.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Power.Button.Logo.with.It.powers.up.freedom (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Classic.SuperTux.Logo.with.Pelerine (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Crystallized.SuperTux.Logo.with.Pelerine (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Classic.SuperTux.Logo.without.Pelerine (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Crystallized.SuperTux.Logo.without.Pelerine (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Superman.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.GNU.Logo.with.Classic.Tux (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.GNU.Logo.with.Crystallized.Tux (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.System.Case.Sticker.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.GNU.Linux.Slackware.Three-digit.Black.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.GNU.Linux.Slackware.Three-digit.Grey.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Traditional.Logo.with.Classic.Tux (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Traditional.Logo.with.Crystallized.Tux (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Traditional.Logo.with.Domed.Tux (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Traditional.Logo.with.Eggstone.Tux (*.svg, *.pdf and *.png) 
+
+Version 1.2 
+
+* Slackware.Linux.Graphics.Slackware.Linux.Phear.the.Penguin.Logo.with.Classic.Tux (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Phear.the.Penguin.Logo.with.Crystallized.Tux (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Classic.Tux.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Crystallized.Tux.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Download.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.ARMedslack.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.ARMedslack.Logo.with.Home.Page (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.slackARM.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.slackARM.Logo.with.Home.Page (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.slack390.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.slack390.Logo.with.Home.Page (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Powered.Logo.with.Classic.Tux (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Powered.Logo.with.Crystallized.Tux (*.svg, *.pdf and *.png) 
+
+Version 1.1 
+
+* Slackware.Linux.Graphics.Slackware.Linux.KDE.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.XFCE.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Documentation.Project.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Traditional.Logo.v2 (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Bag.Badge.Logo.v2 (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Current.Branch.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Current.Branch.Logo.v2 (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Current.Branch.Logo.v3 (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Current.Branch.Logo.v4 (*.svg, *.pdf and *.png) 
+
+Version 1.0 
+
+* Slackware.Linux.Graphics.Slackware.Linux.Traditional.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Traditional.Logo.with.Home.Page (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Traditional.Logo.with.Because.It.Works (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Traditional.Logo.with.Because.It.Secures (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Spherical.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Blurred.Spherical.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Favicon.Logo (*.svg, *.pdf, *.ico and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Bag.Badge.Logo (*.svg, *.pdf and *.png) 
+* Slackware.Linux.Graphics.Slackware.Linux.Security.Shield.Logo (*.svg, *.pdf and *.png) 
+
+LEGAL DISCLAIMER: 
+
+Graphics in this project are all free artwork; you can use them, redistribute them and/or modify them under the *related* terms 
+explained in Slackware Linux Propaganda Graphics FAQ section on Slackware Linux home page. 
+
+You should have received a copy of the Slackware Linux Propaganda Graphics FAQ text 
+along with this artwork package. If not, see "http://www.slackware.com/". 
+
+This artwork package is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. 
+
+Slackware Linux Graphics Project does not officially represent neither Linux nor Slackware Linux in any way. 
+Linux is a registered trademark of Linus Torvalds. Slackware Linux is a registered trademark of Slackware Linux, Inc. 
+and Patrick Volkerding. 
+
+EDITING, PRINTING AND OTHER PURPOSES: 
+
+* Prefer source SVG files for editing and printing with Inkscape or Xara Xtreme. 
+* Prefer exported PDF files for editing and printing with Adobe Illustrator or CorelDRAW. 
+* Prefer exported PNG files for other purposes such as web and documentation. 
+
+There may occur some incompatibility issues with the vector graphics components such as blur and gradient effects 
+while editing SVG and PDF graphics with the vector graphics drawing software other than Inkscape. In this case, 
+you would need to add all missing components on the each vector graphics drawing software on your own. 
+
+DOWNLOAD INFORMATION: 
+
+You can download more recent versions of the Slackware Linux Graphics from the project's blog 
+at "http://www.slackware-linux-graphics.blogspot.com/". 
+
+OPINIONS AND SUGGESTIONS: 
+
+Please contact with the project for your opinions and suggestions related to Slackware Linux Graphics. 
+
+CONTACT INFORMATION: 
+
+Maintainer: Ismail Demiral 
+E-Mail: slackware.linux.graphics@gmail.com 
+Blog: http://www.slackware-linux-graphics.blogspot.com/ 
+
+REFERENCES: 
+
+* The GNU FreeFont Fonts were used in the Slackware Linux Graphics Project. 
+  FreeFont fonts can be accessed from GNU Free UCS Outline Fonts Project repository at "http://ftp.gnu.org/gnu/freefont/". 
+* Slackware Linux Traditional Logo was generated based on PNG and BMP logos on Slackware Linux home page 
+  at "http://mirrors.slackware.com/images/slackware.png" and Slackware 14.0 Installation DVD content 
+  at "http://mirrors.slackware.com/slackware/slackware-14.0/source/a/lilo/slack.bmp" respectively. 
+* Slackware Linux slack/390 Logo was generated based on PNG logo on Slackware Linux home page at "http://www.slack390.org/images/slack390.logo5.png". 
+* Slackware Linux ARMedslack Logo was generated based on PNG logo on Slackware Linux home page at "http://www.armedslack.org/images/armedslack.png". 
+* Slackware Linux Bag Badge Logo was generated based on PNG logo on Slackware Linux home page at "http://mirrors.slackware.com/images/bluepill.png". 
+* Slackware Linux Bag Badge Logo v2 was generated based on SVG logo produced by a user nicknamed as ponce at "http://www.linuxquestions.org". 
+* Slackware Linux Phear the Penguin Logos were generated based on GIF logo on Slackware Linux home page at "http://slackware.com/~msimons/slackware/grfx/shared/phearSW.gif". 
+* Slackware Linux Phear Tux Logos were generated based on JPG logo on Slackware Linux home page at "http://slackware.com/~msimons/slackware/grfx/shared/dobbslack1.jpg". 
+* Slackware Linux KDE Logo was generated based on official KDE SVG logo on KDE home page at "http://www.kde.org/stuff/clipart/klogo-official-oxygen.svg". 
+  KDE, K Desktop Environment and the KDE Logo are trademarks of KDE e.V. 
+* Slackware Linux XFCE Logo was generated based on official XFCE SVG logo on XFCE home page at "http://cdn.xfce.org/downloads/xfce_artwork.tar.bz2". 
+  Copying of the XFCE Logo is subject to the LGPL copyright license. 
+* As Linux mascot, Crystallized New Tux derived from Larry Ewing's famous Tux was used in some of the Slackware Linux Graphics. 
+  Source SVG file of Larry Ewing's Classic Tux can be accessed on Wikimedia foundation home page at "http://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg". 
+  Source SVG file of Crystallized New Tux can be accessed on Wikimedia foundation home page at "http://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg". 
+  For more information about Tux, visit Larry Ewing's Tux Page at "http://www.isc.tamu.edu/~lewing/linux/". 
+* Slackware Linux Favicon Logo ICO file was generated using Project Fondue Favicon Generator at "http://favicon-generator.org/". 
+* Slackware Linux Powered Logo was generated based on a GIF logo on Linux S/390 home page at "http://linux.s390.org/". 
+* Slackware Linux Domed Tux Logo was generated based on JPG logo on Slackware Linux Project Italia home page at "http://slackware.it/gfx/logo.jpg". 
+* Slackware Linux Power Button Logo was generated based on JPG wallpaper 
+  at "http://debian.ues.edu.sv/compartidos/neozerosv/documentos/charlas-talleres/flisol2009/caratulas-flisol/bolsa/L%20Slackware.jpg". 
+* Slackware Linux SuperTux Logo was redrawn based on Jim Cole's original design. 
+* Inkscape is an open source vector graphics drawing software with advanced capabilities. 
+  For more information about Inkscape, refer to the project's home page at "http://www.inkscape.org/". 
+* Xara Xtreme is an open source vector graphics drawing software with advanced capabilities. 
+  For more information about Xara Xtreme, refer to the project's home page at "http://www.xaraxtreme.org/". 
+* Adobe Illustrator and CorelDRAW are both proprietary software being developed Adobe and Corel respectively. 
+  For more information about Adobe Illustrator and CorelDRAW, see "http://www.adobe.com/products/illustrator.html/" and "http://www.corel.com/coreldraw/". 
