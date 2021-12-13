@@ -1,0 +1,13 @@
+OTF fonts in this directory listed as follows are from the GNU FreeFont project release on 3th of May 2012. 
+
+* Free*.otf 
+* Free*.Bold.otf 
+* Free*.Oblique.otf 
+* Free*.Bold.Oblique.otf 
+
+You can use these fonts in most modern operating systems such as GNU/Linux, UNIX, BSD, OS X and Windows. 
+
+In GNU/Linux Slackware: 
+
+* For system wide use of the above OTF fonts, copy them into "/usr/share/fonts/OTF/" directory. 
+* For user specific use of the fonts, copy them into "~/.fonts/" directory. 
